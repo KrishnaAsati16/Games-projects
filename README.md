@@ -4,13 +4,13 @@
 GAMES :
 
 
- 1.*PACKMAN *
+ 1.*PACKMAN*
 
  
  2.*SNAKE(EAT DOTS)*
 
  
- 3.*WORD COUNT TEST *
+ 3.*WORD COUNT TEST*
 
 
  PROJECTS :
