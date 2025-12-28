@@ -1,21 +1,5 @@
  CREATING GAMES- PROJECTS USING JAVA !!
 
 
-GAMES :
-
-
- 1.*PACKMAN*
-
- 
- 2.*SNAKE(EAT DOTS)*
-
- 
- 3.*WORD COUNT TEST*
-
-
- PROJECTS :
-
-
-1.*Bank Programming*
  
 
